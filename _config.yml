@@ -7,8 +7,6 @@ email:      596160575@qq.com
 description: >
   一次搭建个人博客网站的尝试
 
-favicon_path:     /assets/images/favicon.ico
-
 remote_theme: sighingnow/jekyll-gitbook
 
 syntax_highlighter_style: colorful
