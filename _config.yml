@@ -8,10 +8,3 @@ description: >
   一次搭建个人博客网站的尝试
 
 remote_theme: sighingnow/jekyll-gitbook
-
-syntax_highlighter_style: colorful
-
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
