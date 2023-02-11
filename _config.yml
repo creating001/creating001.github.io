@@ -6,12 +6,12 @@ email:      596160575@qq.com
 description: >
   一次搭建个人博客网站的尝试
 
-version:          1.0
-gitbook_version:  3.2.3
-
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
-rss:              RSS
+# version:          1.0
+# gitbook_version:  3.2.3
+# 
+# url:              'https://sighingnow.github.io'
+# baseurl:          '/jekyll-gitbook'
+# rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
@@ -41,23 +41,23 @@ syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
-
-exclude:
-  - _drafts
-
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
-
-page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
-
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+# permalink:        /:categories/:year-:month-:day-:title:output_ext
+# 
+# exclude:
+#   - _drafts
+# 
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:collection/:path/
+# 
+# page_width: 800px
+# 
+# destination:      ./_site
+# incremental:      false
+# regenerate:       true
+# 
+# plugins:
+#   - jekyll-feed
+#   - jekyll-readme-index
+#   - jemoji
