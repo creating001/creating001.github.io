@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 这是一篇个人博客
+title: 这是开始
 permalink: /
 ---
 
