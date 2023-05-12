@@ -3,11 +3,11 @@
   <title>WuDocs</title>
   
   <subtitle>一站式学习网站</subtitle>
-  <link href="https://creating001.github.io/hexo/atom.xml" rel="self"/>
+  <link href="https://creating001.github.io/atom.xml" rel="self"/>
   
-  <link href="https://creating001.github.io/hexo/"/>
+  <link href="https://creating001.github.io/"/>
   <updated>2023-05-12T04:05:41.721Z</updated>
-  <id>https://creating001.github.io/hexo/</id>
+  <id>https://creating001.github.io/</id>
   
   <author>
     <name>划船全靠浪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>图论之最短路算法详解</title>
-    <link href="https://creating001.github.io/hexo/2023/05/10/shortest-path/"/>
-    <id>https://creating001.github.io/hexo/2023/05/10/shortest-path/</id>
+    <link href="https://creating001.github.io/2023/05/10/shortest-path/"/>
+    <id>https://creating001.github.io/2023/05/10/shortest-path/</id>
     <published>2023-05-10T15:41:53.000Z</published>
     <updated>2023-05-12T04:05:41.721Z</updated>
     
@@ -36,19 +36,19 @@
     
     
     
-    <category term="算法" scheme="https://creating001.github.io/hexo/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://creating001.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="图论算法" scheme="https://creating001.github.io/hexo/categories/%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95/"/>
+    <category term="图论算法" scheme="https://creating001.github.io/categories/%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="最短路算法" scheme="https://creating001.github.io/hexo/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF%E7%AE%97%E6%B3%95/"/>
+    <category term="最短路算法" scheme="https://creating001.github.io/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>动态规划之背包问题详解</title>
-    <link href="https://creating001.github.io/hexo/2023/05/10/knapsack/"/>
-    <id>https://creating001.github.io/hexo/2023/05/10/knapsack/</id>
+    <link href="https://creating001.github.io/2023/05/10/knapsack/"/>
+    <id>https://creating001.github.io/2023/05/10/knapsack/</id>
     <published>2023-05-10T01:31:01.000Z</published>
     <updated>2023-05-11T11:25:08.008Z</updated>
     
@@ -66,21 +66,21 @@
     
     
     
-    <category term="算法" scheme="https://creating001.github.io/hexo/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://creating001.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="动态规划" scheme="https://creating001.github.io/hexo/categories/%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    <category term="动态规划" scheme="https://creating001.github.io/categories/%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
     
-    <category term="动态规划" scheme="https://creating001.github.io/hexo/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    <category term="动态规划" scheme="https://creating001.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
-    <category term="背包问题" scheme="https://creating001.github.io/hexo/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/"/>
+    <category term="背包问题" scheme="https://creating001.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>数据结构之单调队列详解</title>
-    <link href="https://creating001.github.io/hexo/2023/05/10/monotonic-queue/"/>
-    <id>https://creating001.github.io/hexo/2023/05/10/monotonic-queue/</id>
+    <link href="https://creating001.github.io/2023/05/10/monotonic-queue/"/>
+    <id>https://creating001.github.io/2023/05/10/monotonic-queue/</id>
     <published>2023-05-09T16:52:37.000Z</published>
     <updated>2023-05-11T11:10:12.939Z</updated>
     
@@ -97,21 +97,21 @@
     
     
     
-    <category term="数据结构" scheme="https://creating001.github.io/hexo/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="https://creating001.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
-    <category term="队列" scheme="https://creating001.github.io/hexo/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%98%9F%E5%88%97/"/>
+    <category term="队列" scheme="https://creating001.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%98%9F%E5%88%97/"/>
     
     
-    <category term="队列" scheme="https://creating001.github.io/hexo/tags/%E9%98%9F%E5%88%97/"/>
+    <category term="队列" scheme="https://creating001.github.io/tags/%E9%98%9F%E5%88%97/"/>
     
-    <category term="单调队列" scheme="https://creating001.github.io/hexo/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
+    <category term="单调队列" scheme="https://creating001.github.io/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
     
   </entry>
   
   <entry>
     <title>文章Front-matter设置</title>
-    <link href="https://creating001.github.io/hexo/2023/05/09/front-matter/"/>
-    <id>https://creating001.github.io/hexo/2023/05/09/front-matter/</id>
+    <link href="https://creating001.github.io/2023/05/09/front-matter/"/>
+    <id>https://creating001.github.io/2023/05/09/front-matter/</id>
     <published>2023-05-09T05:09:53.000Z</published>
     <updated>2023-05-11T11:09:29.532Z</updated>
     
@@ -130,10 +130,10 @@
     
     
     
-    <category term="配置" scheme="https://creating001.github.io/hexo/categories/%E9%85%8D%E7%BD%AE/"/>
+    <category term="配置" scheme="https://creating001.github.io/categories/%E9%85%8D%E7%BD%AE/"/>
     
     
-    <category term="Hexo配置" scheme="https://creating001.github.io/hexo/tags/Hexo%E9%85%8D%E7%BD%AE/"/>
+    <category term="Hexo配置" scheme="https://creating001.github.io/tags/Hexo%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
