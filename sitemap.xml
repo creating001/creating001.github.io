@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://creating001.github.io/gallery/wallpaper6.html</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://creating001.github.io/about/index.html</loc>
     
     <lastmod>2023-06-11</lastmod>
@@ -187,6 +196,13 @@
   </url>
   
   <url>
+    <loc>https://creating001.github.io/tags/%E6%A0%91%E5%BD%A2dp/</loc>
+    <lastmod>2023-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://creating001.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2023-12-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -208,13 +224,6 @@
   </url>
   
   <url>
-    <loc>https://creating001.github.io/tags/%E6%A0%91%E5%BD%A2dp/</loc>
-    <lastmod>2023-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://creating001.github.io/tags/%E5%9B%BE%E8%AE%BA/</loc>
     <lastmod>2023-12-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,14 +238,14 @@
   </url>
   
   <url>
-    <loc>https://creating001.github.io/tags/%E7%8A%B6%E5%8E%8Bdp/</loc>
+    <loc>https://creating001.github.io/tags/%E6%95%B0%E4%BD%8Ddp/</loc>
     <lastmod>2023-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://creating001.github.io/tags/%E6%95%B0%E4%BD%8Ddp/</loc>
+    <loc>https://creating001.github.io/tags/%E7%8A%B6%E5%8E%8Bdp/</loc>
     <lastmod>2023-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
