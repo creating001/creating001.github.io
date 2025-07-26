@@ -14,14 +14,13 @@ I am an undergraduate student in Computer Science and Technology at Jilin Univer
 
 I have actively participated in national and international programming competitions, earning prestigious awards including the National First Prize in the 2024 CCF CCSP, a Silver Medal at the 2024 ICPC Asia Regional Contest, and a Gold Medal at the 2025 ICPC National Invitational Contest. I also ranked in the top 0.11% nationwide (430 points) in the 37th CCF CSP Certification.
 
-Currently, I am conducting research on multimodal large language models, focusing on advanced models such as Qwen2.5-VL and Qwen2.5-Omni. I am deeply engaged in understanding multimodal alignment, cross-modal representation learning, and model architecture design.
-
-I am passionate about pushing the boundaries of intelligent systems through rigorous algorithmic design and innovative model development. I aim to contribute to cutting-edge research in AI in both academic and industrial settings.
+Currently, I am conducting research on multimodal large language models, focusing on advanced models such as Qwen2.5-VL and Qwen2.5-Omni. I am deeply engaged in understanding multimodal alignment, cross-modal representation learning, and model architecture design.I am passionate about pushing the boundaries of intelligent systems through rigorous algorithmic design and innovative model development.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+- *XXXX.XX*: &nbsp;🎉🎉 None
+
 
 # 📝 Publications
 
@@ -39,17 +38,21 @@ I am passionate about pushing the boundaries of intelligent systems through rigo
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
