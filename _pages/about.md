@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
 
 I am an undergraduate student in Computer Science and Technology at Jilin University, where I have consistently ranked in the top 1% of my cohort (1/350). My academic interests lie at the intersection of artificial intelligence and competitive programming, with a strong foundation in algorithms, data structures, and machine learning.
 
