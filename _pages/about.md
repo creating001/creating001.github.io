@@ -17,11 +17,6 @@ I have actively participated in national and international programming competiti
 Currently, I am conducting research on multimodal large language models, focusing on advanced models such as Qwen2.5-VL and Qwen2.5-Omni. I am deeply engaged in understanding multimodal alignment, cross-modal representation learning, and model architecture design.I am passionate about pushing the boundaries of intelligent systems through rigorous algorithmic design and innovative model development.
 
 
-# 🔥 News
-
-- *XXXX.XX*: &nbsp;🎉🎉 None
-
-
 # 📝 Publications
 
 <div class='paper-box'>
@@ -42,20 +37,15 @@ Currently, I am conducting research on multimodal large language models, focusin
 
 # 📖 Educations
 
-- *2022.09 - now*, B.S. in Computer Science and Techonolgy, Jilin University
-
-
-# 💻 Internships
-
-- *XXXX.XX - XXXX.XX*, None
+- *2022.09 - 2026.06*, B.S. in Computer Science and Techonolgy, Jilin University
 
 
 # 🎖️ Honors and Awards
 
-- *2025.05* ICPC国际大学生程序设计竞赛全国邀请赛(南昌)金奖
-- *2025.04* 第37次CCF计算机软件能力认证430分, 全国前0.11%
-- *2024.12* 本科生国家奖学金
-- *2024.11* ICPC国际大学生程序设计竞赛亚洲区域赛(南京)银奖
-- *2024.11* 解放领航奖学金(一汽解放汽车有限公司)
-- *2024.10* CCF大学生计算机系统与程序设计竞赛国家一等奖
-- *2023.12* 本科生国家奖学金
+- *2025.05*, ICPC国际大学生程序设计竞赛全国邀请赛(南昌)金奖
+- *2025.04*, 第37次CCF计算机软件能力认证430分, 全国前0.11%
+- *2024.12*, 本科生国家奖学金
+- *2024.11*, ICPC国际大学生程序设计竞赛亚洲区域赛(南京)银奖
+- *2024.11*, 解放领航奖学金(一汽解放汽车有限公司)
+- *2024.10*, CCF大学生计算机系统与程序设计竞赛国家一等奖
+- *2023.12*, 本科生国家奖学金
