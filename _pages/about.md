@@ -10,9 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an undergraduate student in Computer Science and Technology at Jilin University, where I have consistently ranked in the top 1% of my cohort (1/350). My academic interests lie at the intersection of artificial intelligence and competitive programming, with a strong foundation in algorithms, data structures, and machine learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total
+I have actively participated in national and international programming competitions, earning prestigious awards including the National First Prize in the 2024 CCF CCSP, a Silver Medal at the 2024 ICPC Asia Regional Contest, and a Gold Medal at the 2025 ICPC National Invitational Contest. I also ranked in the top 0.11% nationwide (430 points) in the 37th CCF CSP Certification.
+
+Currently, I am conducting research on multimodal large language models, focusing on advanced models such as Qwen2.5-VL and Qwen2.5-Omni. I am deeply engaged in understanding multimodal alignment, cross-modal representation learning, and model architecture design.
+
+I am passionate about pushing the boundaries of intelligent systems through rigorous algorithmic design and innovative model development. I aim to contribute to cutting-edge research in AI in both academic and industrial settings.
 
 
 # 🔥 News
