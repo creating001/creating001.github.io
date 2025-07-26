@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <span class='anchor' id='about-me'></span> -->
+<span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in Computer Science and Technology at Jilin University, where I have consistently ranked in the top 1% of my cohort (1/350). My academic interests lie at the intersection of artificial intelligence and competitive programming, with a strong foundation in algorithms, data structures, and machine learning.
+我是吉林大学计算机科学与技术专业的一名本科生，在校期间成绩始终位列年级前1%（1/350）。我的学术兴趣聚焦于人工智能与竞赛编程的交叉领域，具备扎实的算法、数据结构和深度学习基础。
 
-I have actively participated in national and international programming competitions, earning prestigious awards including the National First Prize in the 2024 CCF CCSP, a Silver Medal at the 2024 ICPC Asia Regional Contest, and a Gold Medal at the 2025 ICPC National Invitational Contest. I also ranked in the top 0.11% nationwide (430 points) in the 37th CCF CSP Certification.
+我积极参与国家级和国际级编程竞赛，曾荣获2024年中国计算机学会CCSP全国一等奖、2024年ICPC亚洲区域赛银奖，以及2025年ICPC全国邀请赛金奖。此外，在第37次CCF CSP认证中，我以430分的成绩位列全国前0.11%。
 
-Currently, I am conducting research on multimodal large language models, focusing on advanced models such as Qwen2.5-VL and Qwen2.5-Omni. I am deeply engaged in understanding multimodal alignment, cross-modal representation learning, and model architecture design.I am passionate about pushing the boundaries of intelligent systems through rigorous algorithmic design and innovative model development.
+目前，我正致力于多模态大语言模型的研究，重点关注Qwen2.5-VL和Qwen2.5-Omni等先进模型。我深入研究多模态对齐、跨模态表征学习以及模型架构设计，致力于通过严谨的算法设计与创新的模型构建，推动多大模型能力边界的不断拓展。
 
 
 # 📖 Educations
