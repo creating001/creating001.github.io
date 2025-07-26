@@ -16,7 +16,9 @@ redirect_from:
 # 📖 Educations
 
 - B.S. in Computer Science and Techonolgy, Jilin University
+
   *2022.09 - 2026.06*
+
   GPA: 3.9/4.0 (Rank: 1/350)
 
 # 🎖️ Honors and Awards
