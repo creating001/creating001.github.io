@@ -1,35 +1,28 @@
-/* Default css file for jemdoc. */
-
 table#tlayout {
-    border: none;
-    border-collapse: separate;
-    background: white;
-}
-/*
-body {
+	border: none;
+	border-collapse: separate;
 	background: white;
-	padding-bottom: 8px;
-	margin: 0;
-}
-*/
-html {
-  background-color: #eeeeee; 
 }
 
-body { 
-  font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
-  color: #000;
-  background-color: #ffffff; 
-  text-align:left; /* for IE */
-  margin-top: 30px; 
-  margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left:  50px;
-  padding-right: 50px;
-  padding-top: 10px;
-  padding-bottom: 30px;
-  max-width: 1000px;
+html {
+	background-color: #eeeeee;
+}
+
+body {
+	font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+	color: #000;
+	background-color: #ffffff;
+	text-align: left;
+	/* for IE */
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	max-width: 1000px;
 }
 
 #layout-menu {
@@ -41,23 +34,23 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
-    vertical-align: top;
+	vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-    border: none;
-    background: white;
-    text-align: left;
-    vertical-align: top;
+	border: none;
+	background: white;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu a {
@@ -66,15 +59,17 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+	background: #ffffdd;
 }
 
-pre, tt {
+pre,
+tt {
 	font-size: 90%;
 	font-family: monaco, monospace;
 }
 
-a, a > tt {
+a,
+a>tt {
 	color: #224b8d;
 	text-decoration: none;
 }
@@ -83,14 +78,19 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
-#layout-menu a.current:link, #layout-menu a.current:visited {
+#layout-menu a.current:link,
+#layout-menu a.current:visited {
 	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
-#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
+
+#layout-menu a:link,
+#layout-menu a:visited,
+#layout-menu a:hover {
 	color: #527bbd;
 	text-decoration: none;
 }
+
 #layout-menu a:hover {
 	text-decoration: none;
 }
@@ -115,7 +115,8 @@ div#toptitle {
 }
 
 /* Reduce space if we begin the page with a title. */
-div#toptitle + h2, div#toptitle + h3 {
+div#toptitle+h2,
+div#toptitle+h3 {
 	margin-top: 0em;
 }
 
@@ -135,7 +136,9 @@ strong {
 }
 
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 	color: #000000;
 	margin-top: 0.7em;
 	margin-bottom: 0.5em;
@@ -155,8 +158,8 @@ h2 {
 	font-size: 125%;
 }
 
-h2 + h3 {
-    padding-top: 0.2em;
+h2+h3 {
+	padding-top: 0.2em;
 }
 
 h3 {
@@ -193,7 +196,9 @@ div#footer-text {
 	padding-bottom: 8px;
 }
 
-ul, ol, dl {
+ul,
+ol,
+dl {
 	margin-top: 0.2em;
 	padding-top: 0;
 	margin-bottom: 0.8em;
@@ -212,7 +217,7 @@ dd {
 	color: #222222;
 }
 
-dd > *:first-child {
+dd>*:first-child {
 	margin-top: 0;
 }
 
@@ -221,12 +226,13 @@ ul {
 	list-style-type: square;
 }
 
-p + ul, p + ol {
+p+ul,
+p+ol {
 	margin-top: -0.5em;
 }
 
 li {
-	margin-top:0.9em;
+	margin-top: 0.9em;
 }
 
 ol {
@@ -234,7 +240,8 @@ ol {
 	list-style-type: decimal;
 }
 
-li p, dd p {
+li p,
+dd p {
 	margin-bottom: 0.3em;
 }
 
@@ -247,11 +254,12 @@ ol ol ol {
 	list-style-type: lower-roman;
 }
 
-p + div.codeblock {
+p+div.codeblock {
 	margin-top: -0.6em;
 }
 
-div.codeblock, div.infoblock {
+div.codeblock,
+div.infoblock {
 	margin-right: 0%;
 	margin-top: 1.2em;
 	margin-bottom: 1.3em;
@@ -269,11 +277,12 @@ div.blockcontent {
 	padding: 0.3em 0.5em;
 }
 
-div.infoblock > div.blockcontent {
+div.infoblock>div.blockcontent {
 	background: #ffffee;
 }
 
-div.blockcontent p + ul, div.blockcontent p + ol {
+div.blockcontent p+ul,
+div.blockcontent p+ol {
 	margin-top: 0.4em;
 }
 
@@ -281,15 +290,16 @@ div.infoblock p {
 	margin-bottom: 0em;
 }
 
-div.infoblock li p, div.infoblock dd p {
+div.infoblock li p,
+div.infoblock dd p {
 	margin-bottom: 0.5em;
 }
 
-div.infoblock p + p {
+div.infoblock p+p {
 	margin-top: 0.8em;
 }
 
-div.codeblock > div.blockcontent {
+div.codeblock>div.blockcontent {
 	background: #f6f6f6;
 }
 
@@ -300,24 +310,34 @@ span.pycommand {
 span.statement {
 	color: #008800;
 }
+
 span.builtin {
 	color: #000088;
 }
+
 span.special {
 	color: #990000;
 }
+
 span.operator {
 	color: #880000;
 }
+
 span.error {
 	color: #aa0000;
 }
-span.comment, span.comment > *, span.string, span.string > * {
+
+span.comment,
+span.comment>*,
+span.string,
+span.string>* {
 	color: #606060;
 }
 
 @media print {
-	#layout-menu { display: none; }
+	#layout-menu {
+		display: none;
+	}
 }
 
 #fwtitle {
@@ -329,11 +349,14 @@ span.comment, span.comment > *, span.string, span.string > * {
 	margin-bottom: 0.5em;
 }
 
-#layout-content h1:first-child, #layout-content h2:first-child, #layout-content h3:first-child {
+#layout-content h1:first-child,
+#layout-content h2:first-child,
+#layout-content h3:first-child {
 	margin-top: -0.7em;
 }
 
-div#toptitle h1, #layout-content div#toptitle h1 {
+div#toptitle h1,
+#layout-content div#toptitle h1 {
 	margin-bottom: 0.0em;
 	padding-bottom: 0.1em;
 	padding-top: 0;
@@ -342,13 +365,13 @@ div#toptitle h1, #layout-content div#toptitle h1 {
 }
 
 .img-bordered {
-    border: 5px solid #fff;
-    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
-    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
-    -ms-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
-    -o-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
-  }
+	border: 5px solid #fff;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+	-ms-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+	-o-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+}
 
 img.eq {
 	padding: 0;
@@ -364,20 +387,21 @@ img.eqwl {
 	margin: 0;
 }
 
-table + table {
-    margin-top: 1em;
+table+table {
+	margin-top: 1em;
 }
 
 tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
+	font-weight: bold;
+	border-bottom: 2px solid black;
 }
 
 img {
-    border: none;
+	border: none;
 }
 
-table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
+table.imgtable,
+table.imgtable td {
+	border: none;
+	text-align: left;
 }
