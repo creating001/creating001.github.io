@@ -1,0 +1,90 @@
+type = "card"
+title = "荣誉与竞赛"
+description = "学业荣誉、奖学金与程序设计竞赛记录。"
+
+[[items]]
+title = "王湘浩奖学金"
+subtitle = "吉林大学"
+date = "2026.06"
+tags = ["学业荣誉"]
+
+[[items]]
+title = "优秀毕业生"
+subtitle = "吉林大学 · 2026届"
+date = "2026.06"
+tags = ["学业荣誉"]
+
+[[items]]
+title = "CCF优秀大学生启航计划"
+subtitle = "中国计算机学会"
+date = "2025.10"
+tags = ["学业荣誉"]
+
+[[items]]
+title = "国家奖学金 · 连续两次"
+subtitle = "中华人民共和国教育部"
+date = "2023、2024"
+tags = ["奖学金"]
+
+[[items]]
+title = "国家励志奖学金"
+subtitle = "2024-2025学年度"
+date = "2025.12"
+tags = ["奖学金"]
+
+[[items]]
+title = "解放领航奖学金"
+subtitle = "吉林大学"
+date = "2024.11"
+tags = ["奖学金"]
+
+[[items]]
+title = "CCPC 全国邀请赛 · 金奖"
+subtitle = "福州站"
+date = "2025.06"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "ICPC 全国邀请赛 · 金奖"
+subtitle = "南昌站"
+date = "2025.05"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "ICPC 亚洲区域赛 · 银奖"
+subtitle = "南京站"
+date = "2024.11"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "CCF CCSP · 金奖与银奖"
+subtitle = "大学生计算机系统与程序设计竞赛"
+date = "2024、2025"
+content = "2024年获**金奖**，2025年获**银奖**。"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "团体程序设计天梯赛 · 全国个人一等奖"
+subtitle = "中国高校计算机大赛"
+date = "2025.05"
+content = "同时获得**吉林省团队一等奖**。"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "蓝桥杯全国总决赛 · 一等奖"
+subtitle = "C/C++程序设计 · 大学A组"
+date = "2024.06"
+tags = ["程序设计竞赛"]
+
+[[items]]
+title = "全国大学生计算机博弈大赛 · 一等奖"
+subtitle = "2024年中国大学生计算机博弈大赛暨第十八届中国计算机博弈锦标赛 · 六子棋"
+date = "2024.08"
+tags = ["计算机博弈"]
+
+[[items]]
+title = "CCF CSP 认证 · 450 / 500"
+subtitle = "计算机软件能力认证"
+date = "2024、2025"
+content = "2024年3月获 **450分**，2025年3月获 **430分**；后者位列**当次认证前0.11%**。"
+tags = ["编程能力认证"]

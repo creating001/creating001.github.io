@@ -1,0 +1,21 @@
+type = "card"
+title = "Research Experience"
+description = "Research internships spanning multimodal models, recommendation, and computational advertising."
+
+[[items]]
+title = "Meituan · LongCat"
+subtitle = "Research Intern · Foundation Model Team"
+date = "2026.08 - 2026.09"
+content = "Worked on **Vision Coding** in the foundation model team, Basic R&D Platform, Core Local Commerce."
+tags = ["Vision Coding", "Multimodal Models"]
+
+[[items]]
+title = "Alibaba · Taobao & Tmall Group"
+subtitle = "Research Intern · Display Advertising, Ranking Team"
+date = "2025.09 - 2026.05"
+content = """
+- Developed the **MAC** benchmark and studied multi-attribution learning for conversion rate prediction, with an open-source implementation in **PyMAL**.
+- Investigated **LLM-based conversion path understanding** and semantic touchpoint selection, leading to the **SILVA** benchmark and **LOTUS** approach.
+- Produced two first-author papers at **KDD 2026** and **CIKM 2026**.
+"""
+tags = ["Conversion Attribution", "CVR Prediction", "Large Language Models"]

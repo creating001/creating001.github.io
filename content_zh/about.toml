@@ -1,0 +1,34 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "多模态大语言模型",
+  "转化归因与转化率预估",
+  "推荐系统与计算广告"
+]
+
+[[sections]]
+id = "bio"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "news"
+type = "list"
+source = "news.toml"
+title = "近期动态"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "代表论文"
+filter = "selected"
+limit = 2
+
+[[sections]]
+id = "education"
+type = "markdown"
+source = "education.md"
+title = "教育经历"

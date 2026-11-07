@@ -1,0 +1,34 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Multimodal Large Language Models",
+  "Conversion Attribution & CVR Prediction",
+  "Recommendation & Computational Advertising"
+]
+
+[[sections]]
+id = "bio"
+type = "markdown"
+source = "bio.md"
+title = "About Me"
+
+[[sections]]
+id = "news"
+type = "list"
+source = "news.toml"
+title = "Recent Updates"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 2
+
+[[sections]]
+id = "education"
+type = "markdown"
+source = "education.md"
+title = "Education"

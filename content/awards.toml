@@ -1,0 +1,90 @@
+type = "card"
+title = "Honors & Awards"
+description = "Selected academic honors and programming competition results."
+
+[[items]]
+title = "Wang Xianghao Scholarship"
+subtitle = "Jilin University"
+date = "2026.06"
+tags = ["Academic Honor"]
+
+[[items]]
+title = "Outstanding Graduate"
+subtitle = "Jilin University · Class of 2026"
+date = "2026.06"
+tags = ["Academic Honor"]
+
+[[items]]
+title = "CCF Outstanding College Student Program"
+subtitle = "China Computer Federation · CCF优秀大学生启航计划"
+date = "2025.10"
+tags = ["Academic Honor"]
+
+[[items]]
+title = "National Scholarship · Two Consecutive Awards"
+subtitle = "Ministry of Education of China"
+date = "2023 & 2024"
+tags = ["Scholarship"]
+
+[[items]]
+title = "National Encouragement Scholarship"
+subtitle = "Academic year 2024-2025"
+date = "2025.12"
+tags = ["Scholarship"]
+
+[[items]]
+title = "Jie Fang Ling Hang Scholarship"
+subtitle = "Jilin University"
+date = "2024.11"
+tags = ["Scholarship"]
+
+[[items]]
+title = "CCPC National Invitational Contest · Gold Medal"
+subtitle = "Fuzhou"
+date = "2025.06"
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "ICPC National Invitational Contest · Gold Medal"
+subtitle = "Nanchang"
+date = "2025.05"
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "ICPC Asia Regional Contest · Silver Medal"
+subtitle = "Nanjing"
+date = "2024.11"
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "CCF CCSP · Gold & Silver Medals"
+subtitle = "Collegiate Computer Systems & Programming Contest"
+date = "2024 & 2025"
+content = "**Gold Medal** in 2024; **Silver Medal** in 2025."
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "GPLT National Finals · Individual First Prize"
+subtitle = "China Collegiate Computing Contest"
+date = "2025.05"
+content = "Also received a **Jilin Provincial Team First Prize**."
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "Lanqiao Cup National Finals · First Prize"
+subtitle = "C/C++ Programming · University Group A"
+date = "2024.06"
+tags = ["Competitive Programming"]
+
+[[items]]
+title = "China Computer Games Championship · First Prize"
+subtitle = "Connect6 · 2024 China Collegiate Computer Games Competition"
+date = "2024.08"
+tags = ["Computer Games"]
+
+[[items]]
+title = "CCF CSP Certification · 450 / 500"
+subtitle = "Certified Software Professional"
+date = "2024 & 2025"
+content = "Scored **450/500** in March 2024 and **430/500** in March 2025. The latter result ranked in the **top 0.11% of its certification round**."
+tags = ["Programming Certification"]

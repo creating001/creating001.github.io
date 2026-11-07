@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Two first-author papers on conversion attribution and learning. Underlined authors contributed equally; † denotes the corresponding author."
+source = "publications.bib"

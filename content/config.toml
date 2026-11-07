@@ -1,0 +1,63 @@
+[site]
+title = "Jinqi Wu"
+description = "Jinqi Wu (武锦旗), master's student at Nanjing University. Research in multimodal large language models, conversion attribution, and recommendation."
+url = "https://creating001.github.io"
+favicon = "/favicon.svg"
+last_updated = "November 7, 2026"
+
+[author]
+name = "Jinqi Wu"
+title = "Master's Student in Computer Science"
+institution = "Nanjing University"
+avatar = "/images/jinqi-wu.jpg"
+
+[social]
+email = "jinqiwu001@gmail.com"
+github = "https://github.com/creating001"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+en = "English"
+zh = "中文"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Experience"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "Honors"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

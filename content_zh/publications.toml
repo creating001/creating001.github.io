@@ -1,0 +1,4 @@
+type = "publication"
+title = "学术论文"
+description = "围绕转化归因与学习的两篇第一作者论文。下划线表示共同第一作者，† 表示通讯作者。"
+source = "publications.bib"
