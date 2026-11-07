@@ -5,5 +5,3 @@ Previously, I received my bachelor's degree in Computer Science and Technology f
 I was a research intern at **Alibaba's Taobao & Tmall Group**, working on **conversion attribution and CVR prediction**. I later joined **Meituan's LongCat team** as a research intern, contributing to **LongCat 2.5** and working on **Vision Coding**.
 
 My first-author work appeared at **KDD 2026** and **CIKM 2026**. I am interested in connecting language and multimodal understanding with real-world learning and decision-making problems.
-
-[View my publications](/publications/) · [Experience & honors](/cv/) · [Get in touch](mailto:jinqiwu001@gmail.com)
