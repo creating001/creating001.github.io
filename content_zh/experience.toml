@@ -3,13 +3,6 @@ title = "科研实习经历"
 description = "在多模态模型、推荐系统与计算广告领域的研究实践。"
 
 [[items]]
-title = "美团 · LongCat"
-subtitle = "科研实习生 · 核心本地商业 · 基础研发平台 · 基座大模型部门"
-date = "2026.08 - 2026.09"
-content = "围绕 **Vision Coding** 开展研究。"
-tags = ["Vision Coding", "多模态模型"]
-
-[[items]]
 title = "阿里巴巴 · 淘天集团"
 subtitle = "科研实习生 · 广告算法部 · 展示广告 Rank 组"
 date = "2025.09 - 2026.05"
@@ -19,3 +12,10 @@ content = """
 - 产出 **KDD 2026** 与 **CIKM 2026** 两篇第一作者论文。
 """
 tags = ["转化归因", "转化率预估", "大语言模型"]
+
+[[items]]
+title = "美团 · LongCat"
+subtitle = "科研实习生 · 核心本地商业 · 基础研发平台 · 基座大模型部门"
+date = "2026.08 - 2026.09"
+content = "围绕 **Vision Coding** 开展研究。"
+tags = ["Vision Coding", "多模态模型"]

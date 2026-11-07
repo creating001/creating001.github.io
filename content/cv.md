@@ -10,11 +10,11 @@ GPA: **3.91/4.0** · Rank: **1/351** · Outstanding Graduate
 
 ## Research Internships
 
-**Meituan · LongCat**, Research Intern · August - September 2026  
-Foundation Model Team, Basic R&D Platform, Core Local Commerce. Research on Vision Coding.
-
 **Alibaba · Taobao & Tmall Group**, Research Intern · September 2025 - May 2026  
 Display Advertising, Ranking Team. Research on multi-attribution learning, conversion rate prediction, and LLM-based semantic touchpoint selection.
+
+**Meituan · LongCat**, Research Intern · August - September 2026  
+Foundation Model Team, Basic R&D Platform, Core Local Commerce. Research on Vision Coding.
 
 ## Publications
 
@@ -24,7 +24,7 @@ Display Advertising, Ranking Team. Research on multi-attribution learning, conve
 
 ## Selected Honors
 
-- **Wang Xianghao Scholarship**, Jilin University · June 2026
+- **Academician Wang Xianghao Scholarship**, Jilin University · June 2026
 - **Outstanding Graduate**, Jilin University · 2026
 - **CCF Outstanding College Student Program** · 2025
 - **National Scholarship** · 2023 and 2024
