@@ -6,9 +6,7 @@ title = "Nanjing University"
 subtitle = "M.S. in Computer Science and Technology"
 date = "2026.09 - 2029.06 (expected)"
 content = """
-Advisor: **Prof. Chaoyou Fu**
-
-Research focus: **Multimodal Large Language Models**
+Advisor: **Prof. Chaoyou Fu** · Research focus: **Multimodal Large Language Models**
 """
 
 [[items]]
