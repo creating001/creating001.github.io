@@ -4,8 +4,8 @@ title = "关于我"
 [profile]
 research_interests = [
   "多模态大语言模型",
-  "转化归因与转化率预估",
-  "推荐系统与计算广告"
+  "推荐大模型",
+  "多模态 Coding"
 ]
 
 [[sections]]

@@ -4,8 +4,8 @@ title = "About"
 [profile]
 research_interests = [
   "Multimodal Large Language Models",
-  "Conversion Attribution & CVR Prediction",
-  "Recommendation & Computational Advertising"
+  "Large Language Models for Recommendation",
+  "Multimodal Coding"
 ]
 
 [[sections]]
