@@ -13,7 +13,7 @@ GPA: **3.91/4.0** · Rank: **1/351** · Outstanding Graduate
 **Alibaba · Taobao & Tmall Group**, Research Intern · September 2025 - May 2026  
 Display Advertising, Ranking Team. Research on multi-attribution learning, conversion rate prediction, and LLM-based semantic touchpoint selection.
 
-**Meituan · LongCat**, Research Intern · August - September 2026  
+**Meituan · LongCat**, Research Intern · August 2026 - January 2027 (expected)  
 Foundation Model Team, Basic R&D Platform, Core Local Commerce. Contributed to **LongCat 2.5** and worked on **Vision Coding**.
 
 ## Publications
