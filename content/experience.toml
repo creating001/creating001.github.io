@@ -21,4 +21,4 @@ content = """
 - Contributing to **LongCat 2.5** and researching **Vision Coding** in the foundation model team, Basic R&D Platform, Core Local Commerce.
 - Independently developing **Muse2Web: Benchmarking Coding Agents on Turning Visual Inspiration into Working Websites** (ongoing), a benchmark evaluating coding agents' ability to turn visual inspiration into working websites.
 """
-tags = ["Vision Coding", "Multimodal Models"]
+tags = ["Multimodal Models", "Vision Coding"]
