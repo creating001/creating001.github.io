@@ -1,5 +1,5 @@
 type = "card"
-title = "科研实习经历"
+title = "实习经历"
 description = "在多模态模型、推荐系统与计算广告领域的研究实践。"
 
 [[items]]

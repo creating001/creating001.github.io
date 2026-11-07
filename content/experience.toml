@@ -1,5 +1,5 @@
 type = "card"
-title = "Research Experience"
+title = "Internship Experience"
 description = "Research internships spanning multimodal models, recommendation, and computational advertising."
 
 [[items]]
