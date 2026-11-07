@@ -14,7 +14,7 @@ GPA: **3.91/4.0** · Rank: **1/351** · Outstanding Graduate
 Display Advertising, Ranking Team. Research on multi-attribution learning, conversion rate prediction, and LLM-based semantic touchpoint selection.
 
 **Meituan · LongCat**, Research Intern · August - September 2026  
-Foundation Model Team, Basic R&D Platform, Core Local Commerce. Research on Vision Coding.
+Foundation Model Team, Basic R&D Platform, Core Local Commerce. Contributed to **LongCat 2.5** and worked on **Vision Coding**.
 
 ## Publications
 
