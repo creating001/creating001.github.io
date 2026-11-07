@@ -55,9 +55,3 @@ title = "Honors"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"

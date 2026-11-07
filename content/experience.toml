@@ -7,8 +7,8 @@ title = "Alibaba · Taobao & Tmall Group"
 subtitle = "Research Intern · Display Advertising, Ranking Team"
 date = "2025.09 - 2026.05"
 content = """
-- Developed the **MAC** benchmark and studied multi-attribution learning for conversion rate prediction, with an open-source implementation in **PyMAL**.
-- Investigated **LLM-based conversion path understanding** and semantic touchpoint selection, leading to the **SILVA** benchmark and **LOTUS** approach.
+- Built **MAC**, the first public multi-attribution CVR benchmark, integrating **First-Click, Last-Click, Linear, and DDA** labels. Systematically validated multi-attribution learning across all four attribution objectives, with greater gains for users with complex conversion paths. Online A/B tests achieved **GMV +2.7%, orders +1.2%, and ROI +2.6%** over the production baseline.
+- Proposed **LLM-based conversion path understanding** to generate semantic attribution signals, identify implicitly related touchpoints missed by rule-based attribution, and incorporate them into auxiliary CVR training. Offline GAUC on the primary conversion task improved by **0.35% over the same-store touchpoint production baseline** and by a further **0.15% over the heuristic CABA baseline**.
 - Produced two first-author papers at **KDD 2026** and **CIKM 2026**.
 """
 tags = ["Conversion Attribution", "CVR Prediction", "Large Language Models"]

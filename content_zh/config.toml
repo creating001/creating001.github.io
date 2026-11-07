@@ -31,9 +31,3 @@ title = "荣誉奖项"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "个人履历"
-type = "page"
-target = "cv"
-href = "/cv"
