@@ -29,6 +29,12 @@ limit = 2
 
 [[sections]]
 id = "education"
-type = "markdown"
-source = "education.md"
+type = "cards"
+source = "education.toml"
 title = "Education"
+
+[[sections]]
+id = "experience"
+type = "cards"
+source = "experience.toml"
+title = "Research Experience"

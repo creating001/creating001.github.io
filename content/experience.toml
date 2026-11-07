@@ -17,5 +17,8 @@ tags = ["Conversion Attribution", "CVR Prediction", "Large Language Models"]
 title = "Meituan · LongCat"
 subtitle = "Research Intern · Foundation Model Team"
 date = "2026.08 - 2027.01 (expected)"
-content = "Contributed to **LongCat 2.5** and worked on **Vision Coding** in the foundation model team, Basic R&D Platform, Core Local Commerce."
+content = """
+- Contributing to **LongCat 2.5** and researching **Vision Coding** in the foundation model team, Basic R&D Platform, Core Local Commerce.
+- Independently developing **Muse2Web: Benchmarking Coding Agents on Turning Visual Inspiration into Working Websites** (ongoing), a benchmark evaluating coding agents' ability to turn visual inspiration into working websites.
+"""
 tags = ["Vision Coding", "Multimodal Models"]

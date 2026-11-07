@@ -15,6 +15,7 @@ GPA：**3.91/4.0** · 专业排名：**1/351** · 优秀毕业生
 
 **美团 · LongCat** · 科研实习生 · 2026.08 - 2027.01（预计）  
 核心本地商业、基础研发平台、基座大模型部门，参与 **LongCat 2.5** 项目，研究方向为 **Vision Coding**。
+独立开展 **Muse2Web: Benchmarking Coding Agents on Turning Visual Inspiration into Working Websites**（进行中），构建评测基准，评估 Coding Agents 将视觉灵感转化为可运行网站的能力。
 
 ## 科研成果
 

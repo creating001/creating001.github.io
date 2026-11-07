@@ -1,0 +1,22 @@
+type = "card"
+title = "Education"
+
+[[items]]
+title = "Nanjing University"
+subtitle = "M.S. in Computer Science and Technology"
+date = "2026.09 - 2029.06 (expected)"
+content = """
+Advisor: **Prof. Chaoyou Fu**
+
+Research focus: **Multimodal Large Language Models**
+"""
+
+[[items]]
+title = "Jilin University"
+subtitle = "B.S. in Computer Science and Technology"
+date = "2022.09 - 2026.06"
+content = """
+GPA: **3.91/4.0** · Rank: **1/351**
+
+**Outstanding Graduate, Class of 2026**
+"""
