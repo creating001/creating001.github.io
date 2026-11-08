@@ -38,3 +38,9 @@ id = "experience"
 type = "cards"
 source = "experience.toml"
 title = "实习经历"
+
+[[sections]]
+id = "awards"
+type = "cards"
+source = "awards.toml"
+title = "荣誉奖项"
